@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>apiConfig.txt</file>
+    </qresource>
+</RCC>

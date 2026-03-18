@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>map/await_1.gif</file>
+        <file>map/await_2.gif</file>
+        <file>map/default_await.gif</file>
+        <file>map/sysmap.png</file>
+        <file>map/walk_left_1.gif</file>
+        <file>map/walk_left_2.gif</file>
+        <file>map/walk_right_1.gif</file>
+        <file>map/walk_right_2.gif</file>
+    </qresource>
+</RCC>
